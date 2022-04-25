@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "name": "Umidjon",
+    "age": 23,
+    "job": "Front-end",
+    "email": "umidjon@gmail.com"
+  },
+  {
+    "id": 2,
+    "name": "O'ral",
+    "age": 26,
+    "job": "Back-end",
+    "email": "ural@gmail.com"
+  },
+  {
+    "id": 3,
+    "name": "Samariddin",
+    "age": 23,
+    "job": "1C",
+    "email": "samariddin@gmail.com"
+  },
+  {
+    "id": 4,
+    "name": "Jamshid",
+    "age": 24,
+    "job": "Matematika",
+    "email": "jamshid@gmail.com"
+  }
+]
